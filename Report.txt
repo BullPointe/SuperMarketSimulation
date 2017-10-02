@@ -1,0 +1,20 @@
+
+Julie  Johnson Was Enqueued
+
+Julie  Johnson Was Dequeued
+
+Customer ID: 1   Gender: Female   Name: Julie Johnson   Shopping Time: 4   Queue Time: 0   Service Time: 1   Review: 0
+
+Brian  Wood Was Enqueued
+
+---------------------------THE SUPER MARKET CLOSED---------------------------
+
+THE LONGEST QUEUE SIZE IS: 1 Customers AT: 00:00:06
+
+THE CUSTOMER IN THE QUEUE THE LONGEST: Julie Johnson 0 Seconds
+
+THE AVERAGE TIME IN QUEUE: 0
+
+THE AVERAGE TIME SHOPPING: 4
+
+THE AVERAGE TIME IN SERVING: 1
